@@ -69,9 +69,10 @@ img {
     max-width: 100%;
 }
 
-ul {
+ul,
+ol {
     list-style: none;
-    margin-top: 0;
+    margin: 0;
     padding-left: 0;
 }
 
@@ -210,6 +211,7 @@ li {
     text-align: center;
     line-height: 1.07;
     padding: 188px 0;
+    margin: 0, auto;
 }
 
 .title {
